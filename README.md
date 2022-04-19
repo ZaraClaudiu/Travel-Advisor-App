@@ -1,4 +1,4 @@
-Travel advisor is an app that shows you restaurants
+Travel advisor is an app that shows you restaurants,
 hotels and attractions of your current location, but you can
 search for these things in other cities of your choice.
 This application is full responsive: desktop/mobile
